@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/images/logotype.png</file>
+        <file>resources/images/chessmen/white/pawn.png</file>
+        <file>resources/images/chessmen/white/knight.png</file>
+        <file>resources/images/chessmen/white/bishop.png</file>
+        <file>resources/images/chessmen/white/rook.png</file>
+        <file>resources/images/chessmen/white/queen.png</file>
+        <file>resources/images/chessmen/white/king.png</file>
+        <file>resources/images/chessmen/black/pawn.png</file>
+        <file>resources/images/chessmen/black/knight.png</file>
+        <file>resources/images/chessmen/black/bishop.png</file>
+        <file>resources/images/chessmen/black/rook.png</file>
+        <file>resources/images/chessmen/black/queen.png</file>
+        <file>resources/images/chessmen/black/king.png</file>
+        <file>resources/sounds/move.ogg</file>
+        <file>resources/sounds/capture.ogg</file>
+        <file>resources/sounds/message.ogg</file>
+        <file>resources/images/logotype2.png</file>
+        <file>resources/images/logotype3.png</file>
+        <file>resources/images/fon.png</file>
+        <file>resources/images/fon2.png</file>
+    </qresource>
+</RCC>
